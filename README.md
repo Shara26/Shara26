@@ -42,6 +42,6 @@
 
 ---
 
-<p align="center">building > talking</p>
+<p align="center">consistency > motivation</p>
 
 
