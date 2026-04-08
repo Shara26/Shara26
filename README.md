@@ -28,12 +28,6 @@
 
 ---
 
-## 📊 GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shara26&show_icons=true&theme=tokyonight" />
-</p>
-
----
 
 ## 🔗 Connect
 📧 sharatadas26@gmail.com  
